@@ -1,0 +1,39 @@
+
+body{
+    background-color: blanchedalmond;
+}
+.heading{
+    text-align: center;
+    background-color: bisque;
+}
+
+.managingDir img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.writeup{
+    float: right;
+}
+
+.siteadmin img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    
+}
+
+
+.projectmanager img{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    
+}
+
+.constructionmanager img{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+

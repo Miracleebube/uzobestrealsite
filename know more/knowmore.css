@@ -1,0 +1,23 @@
+body{
+background-color: bisque;
+}
+
+.intro{
+    font-weight: 400;
+    font-size: medium;
+}
+
+.mission1{
+    text-align: center;
+    background-color: crimson;
+}
+
+.vision{
+    text-align: center;
+    background-color: crimson;
+}
+
+.policy{
+    text-align: center;
+    background-color: crimson;
+}
